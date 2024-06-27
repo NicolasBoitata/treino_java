@@ -4,4 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="red">#FF0000</color>
     <color name="gray">#808080</color>
+    <color name="yellow">#ffff00</color>
+    //cáqui
+    <color name="khaki">#F0E68C</color>
+    <color name="banana">#FFE866</color>
 </resources>
